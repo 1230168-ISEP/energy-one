@@ -1,0 +1,27 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Dotnet build artifacts
+bin/
+obj/
+
+# Packages
+*.nupkg
+packages/
+
+# React and Node
+node_modules/
+*.log
+build/
+dist/
+.env
+
+# Other unwanted files
+*.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+@EnergyOne.Api_HostAddress = http://localhost:5075
+
+GET {{EnergyOne.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
